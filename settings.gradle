@@ -1,0 +1,4 @@
+include ':universal'
+project(':universal').projectDir = file('build/universal')
+
+rootProject.name = 'The Betweenlands Music Addon'

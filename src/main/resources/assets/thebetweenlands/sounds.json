@@ -1,0 +1,38 @@
+{
+  "bl_menu": {
+    "sounds": [
+      {
+        "name": "thebetweenlandsmusic:back_home",
+        "stream": true
+      }
+    ]
+  },
+  "bl_dimension": {
+    "sounds": [
+      {
+        "name": "thebetweenlandsmusic:eternal",
+        "stream": true
+      },
+      {
+        "name": "thebetweenlandsmusic:strange_but_pleasant",
+        "stream": true
+      },
+      {
+        "name": "thebetweenlandsmusic:a_walk_through_the_marsh",
+        "stream": true
+      },
+      {
+        "name": "thebetweenlandsmusic:rowing_through_the_fog",
+        "stream": true
+      },
+      {
+        "name": "thebetweenlandsmusic:we_are_the_ones_who_crawl",
+        "stream": true
+      },
+      {
+        "name": "thebetweenlandsmusic:light_will_follow",
+        "stream": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+//Add dependencies
+repositories {
+	maven {
+		name = 'CurseMaven'
+		url = 'https://www.cursemaven.com'
+	}
+}
+dependencies {
+	deobfCompile "curse.maven:thebetweenlands-243363:4359749" // 3.9.5
+}

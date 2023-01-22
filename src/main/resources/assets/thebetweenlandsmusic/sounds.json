@@ -1,0 +1,44 @@
+{
+  "labyrinthine_vaults": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "thebetweenlandsmusic:labyrinthine_vaults",
+        "stream": true
+      }
+    ]
+  },
+  "wight_fortress": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "thebetweenlandsmusic:wight_fortress",
+        "stream": true
+      }
+    ]
+  },
+  "chiromaw_matriarch_loop": {
+    "sounds": [
+      {
+        "name": "thebetweenlandsmusic:chiromaw_matriarch",
+        "stream": true
+      }
+    ]
+  },
+  "spirit_tree_loop": {
+    "sounds": [
+      {
+        "name": "thebetweenlandsmusic:spirit_tree",
+        "stream": true
+      }
+    ]
+  },
+  "emberling_shaman_loop": {
+    "sounds": [
+      {
+        "name": "thebetweenlandsmusic:emberling_shamans",
+        "stream": true
+      }
+    ]
+  }
+}

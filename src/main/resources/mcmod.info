@@ -1,0 +1,11 @@
+[{
+	"modid": "thebetweenlandsmusic",
+	"name": "The Betweenlands Music Addon",
+	"description": "Rotch Gwylt's Betweenlands music addon. Included tracks:\n - Back Home\n - Eternal\n - Strange but Pleasant\n - A Walk Through The Marsh\n - Rowing Through The Fog\n - We Are The Ones Who Crawl\n - Light Will Follow\n - Chiromaw Matriarch\n - Spirit Tree\n - Labyrinthine Vaults\n - Wight Fortress",
+	"version": "${version}",
+	"mcversion": "${mcversion}",
+	"authorList": [ "Rotch Gwylt", "TheCyberBrick" ],
+	"logoFile": "assets/thebetweenlandsmusic/logo.png",
+	"screenshots": [],
+	"dependencies": []
+}]

@@ -1,0 +1,15 @@
+project(':universal') {
+	//Builds the universal jar
+	jar {
+		classifier 'universal'
+
+		exclude('pack.mcmeta')
+		exclude('pack.png')
+		
+		// Ensure mod is only loaded client side
+		manifest.attributes ([
+			'FMLAT': 'thebetweenlands_at.cfg',
+			'ModSide': 'CLIENT'
+		])
+	}
+}
